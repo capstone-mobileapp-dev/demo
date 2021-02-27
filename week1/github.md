@@ -17,7 +17,7 @@
   - ``git push``
   
   
-  ## #Pushing Multiple files to the repo
+  ### Pushing Multiple files to the repo
    -  ``git status``
    -  ``git add . ``
    -  ``git commit -m'your message'``
