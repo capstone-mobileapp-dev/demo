@@ -1,3 +1,3 @@
 ## Git
-  - What is git:
+  - What is git?
       
